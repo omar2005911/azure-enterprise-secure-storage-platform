@@ -252,16 +252,6 @@ The following scenarios were successfully validated:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-.
-├── architecture/
-│   └── azure-storage-architecture.png
-├── screenshots/
-└── README.md
-```
-
 ## 📚 References
 
 * Microsoft Learn
