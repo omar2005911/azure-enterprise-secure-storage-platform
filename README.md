@@ -2,7 +2,7 @@
 
 > A production-style Azure Storage project demonstrating secure storage architecture using Microsoft Azure networking, identity, monitoring, governance, and security best practices.
 
-![Azure Enterprise Secure Storage Platform](architecture/azure-storage-architecture1.png)
+![Azure Enterprise Secure Storage Platform](architecture/azure-storage-architecture.png)
 
 ---
 
